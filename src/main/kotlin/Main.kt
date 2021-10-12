@@ -35,10 +35,10 @@ fun main(args: Array<String>) {
     var phone=111
     phone= 9999
 
-    val xphone=3333 //here i cant do like var i can't updat the value in code like what i do in 21 line 
+    val xphone=3333 //here i cant do like var i can't updat the value in code like what i do in 21 line
 
     */
-
+println ("haya")
 
 
 }
